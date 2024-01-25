@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f3f3f3;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+input {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.icons {
+    font-size: 24px;
+}
+
+main {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.post {
+    margin: 20px 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.post-caption {
+    margin: 10px 0;
+}
+
+.username {
+    font-weight: bold;
+    align-items: top;
+    background-color: aqua;
+}
